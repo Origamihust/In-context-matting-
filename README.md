@@ -8,7 +8,7 @@
 
 4.进入base环境以后，输入conda env create -f /root/autodl-fs/environment.yml创建环境  
 
-5.通过xftp将程序上传至autodl-fs之中  
+5.通过xftp将程序上传至autodl-fs之中  (数据集在Releases中)
 
 6.环境创建完毕后输入conda activate icm 进入虚拟环境  
 
